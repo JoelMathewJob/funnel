@@ -1,7 +1,6 @@
 # Customer Funnel Management Tool
 
-![image info](![image info](./funnel/public/image.png)
-)
+![image info](./public/image.png)
 
 A ReactJs application for visualizing and managing customer sales funnel stages. This tool helps track customers' progress through the sales pipeline and manage engagement activities.
 
