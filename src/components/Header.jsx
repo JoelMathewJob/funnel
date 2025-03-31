@@ -1,4 +1,4 @@
-import logo from '../assets/image.png';
+// import logo from '../assets/image.png';
 
 const Header = ({ onAddCustomerClick }) => {
   return (
@@ -6,8 +6,8 @@ const Header = ({ onAddCustomerClick }) => {
       <div className="mx-auto max-w-7xl px-4 py-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center">
           <div className="flex items-center">
-            <img src={logo} alt="Pirates Alert" className="h-20 w-20 mr-3 rounded-full" />
-            <h1 className="text-3xl font-bold text-white">Pirates Alert</h1>
+            {/* <img src={logo} alt="Pirates Alert" className="h-20 w-20 mr-3 rounded-full" /> */}
+            <h1 className="text-3xl font-bold text-white">Pirates Alert- Customer Funnel Visualization</h1>
           </div>
           <div className="flex items-center gap-4">
             <button 
